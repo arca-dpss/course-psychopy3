@@ -1,14 +1,18 @@
 # README
 
-Psychopy3 ARCA course
+PsychoPy3: programmare un esperimento![image](https://user-images.githubusercontent.com/57815781/186601968-b9dbd60e-dbc9-4cc3-b26c-331f1f68f97b.png)
 
-See the githubpage at https://arca-dpss.github.io/course-psychopy3
+
+Questa è la repository principale del corso dove ci saranno tutte le informazioni, slides, link e materiale. Per consultare direttamente il materiale è possibile accedere al sito del corso https://arca-dpss.github.io/course-psychopy3
 
 # Introduction 
 
-Welcome to the course...
+Fare ricerca implica la somministrazione di esperimenti, spesso tramite strumenti informatici. Esistono numerosi software che permettono la presentazione di stimoli e la registrazione delle risposte dei partecipanti. 
+È compito di ogni sperimentatore scegliere lo strumento più adatto alle sue esigenze o semplicemente trovare il migliore compromesso tra efficienza, semplicità di utilizzo e costo del software.
+PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
+Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici. 
+![image](https://user-images.githubusercontent.com/57815781/186602075-77447cef-f7c7-4675-a3cd-bcb1bc738ef2.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Files Description
 
