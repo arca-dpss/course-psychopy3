@@ -1,8 +1,8 @@
 # README
 
-Template ARCA course
+Psychopy3 ARCA course
 
-See the githubpage at https://arca-dpss.github.io/course-template
+See the githubpage at https://arca-dpss.github.io/course-psychopy3
 
 # Introduction 
 
