@@ -1,6 +1,6 @@
 ---
-course_title: Welcome to ARCA Course
-author_name: Author Name
+course_title: Welcome to Psychopy3 ARCA Course
+author_name: Thomas Quettier
 ---
 
 # Introduction
