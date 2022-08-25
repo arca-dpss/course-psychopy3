@@ -1,13 +1,15 @@
 ---
-course_title: Welcome to Psychopy3 ARCA Course
+course_title: PsychoPy3: programmare un esperimento
+
 author_name: Thomas Quettier
 ---
 
 # Introduction
 
-Welcome to the course...
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fare ricerca implica la somministrazione di esperimenti, spesso tramite strumenti informatici. Esistono numerosi software che permettono la presentazione di stimoli e la registrazione delle risposte dei partecipanti. 
+È compito di ogni sperimentatore scegliere lo strumento più adatto alle sue esigenze o semplicemente trovare il migliore compromesso tra efficienza, semplicità di utilizzo e costo del software.
+PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
+Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici.
 
 ## Files Description
 
