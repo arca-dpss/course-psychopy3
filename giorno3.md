@@ -1,6 +1,6 @@
-# Giorno 3 : Costruire un esperimento (Programmazione)
+# Giorno 3 : Programmare un esperimento con PsychoPy: aspetti pratici
 		
-## oggi vedremo:
+## Oggi vedremo:
 			- Stimoli
 			- Risposta
 			- Blocchi
@@ -8,6 +8,6 @@
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/12NvSV83Ra4ompUqjLzTo_yHrYXiaet00wvjw9M8RHSw/edit#slide=id.gfb6b507fcf_1_74) diapo.
+[link](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.g10268a9e2f1_0_30) diapo.
 
 Tornare all [index](index.md)
