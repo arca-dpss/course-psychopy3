@@ -13,4 +13,4 @@
 - [link](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
 - [links utili](links.md)
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)
