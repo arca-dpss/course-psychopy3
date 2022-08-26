@@ -1,6 +1,6 @@
 # Giorno 2 : Programmare un esperimento con PsychoPy: aspetti logici 
 		
-## oggi vedremo:
+## Oggi vedremo:
 			- Capire la logica temporale di PsychoPy
 			- Capire il log finale
 			- Capire cosa sono le “Routine”
@@ -8,6 +8,6 @@
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/12NvSV83Ra4ompUqjLzTo_yHrYXiaet00wvjw9M8RHSw/edit#slide=id.gfb6b507fcf_1_74) diapo.
+[link](https://docs.google.com/presentation/d/1BNivDXTs_khI_1xxQntTr9qlt2MHBBDWWrp9PqB95hY/edit#slide=id.g101a4feaa7a_0_34) diapo.
 
 Tornare all [index](index.md)
