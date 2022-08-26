@@ -11,6 +11,7 @@
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/1t6aIbt2Zr2FkTwUNXh45odyE8RiJjLbgCp52ZEJ13yk/edit#slide=id.g1028bbd5426_0_10) diapo.
+- [link](https://docs.google.com/presentation/d/1t6aIbt2Zr2FkTwUNXh45odyE8RiJjLbgCp52ZEJ13yk/edit#slide=id.g1028bbd5426_0_10) diapo.
+- [links utili](links.md)
 
 Tornare all [index](index.md)
