@@ -1,13 +1,16 @@
 # Giorno 3 : Programmare un esperimento con PsychoPy: aspetti pratici
 		
 ## Oggi vedremo:
-			- Stimoli
-			- Risposta
-			- Blocchi
-			- Trigger
+			- Usare componenti immagini
+			- Evitare di eseguire una routine
+			- Usare componenti code
+			- Creare variabile in python code
+			- Scambiare il contenuto tra due variabili
+			- Usare If statement in python code
+			- Usare funzioni di psychoPy in python code
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.g10268a9e2f1_0_30) diapo.
+[link](https://docs.google.com/presentation/d/1gEJgXdQQewSB6hhFkKAmJw0gHpwr-BeAY71XjbJvFd4/edit#slide=id.g101a4011d5b_0_0) diapo.
 
 Tornare all [index](index.md)
