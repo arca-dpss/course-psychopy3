@@ -1,7 +1,7 @@
 # Giorno 5 : Approfondire PsychoPy con l’uso di risorse online
 
 ## Oggi vedremo:
-			- Come inserire un dato diretamente nel file
+			- Come inserire un dato direttamente nel file
 			- Risorse online
 			- Distribuire l’esperimento
 			- Questionario
