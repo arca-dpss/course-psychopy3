@@ -4,7 +4,7 @@ course_title: PsychoPy3: programmare un esperimento
 author_name: Thomas Quettier
 ---
 
-# Introduction
+# Introduzione
 
 Fare ricerca implica la somministrazione di esperimenti, spesso tramite strumenti informatici. Esistono numerosi software che permettono la presentazione di stimoli e la registrazione delle risposte dei partecipanti. 
 È compito di ogni sperimentatore scegliere lo strumento più adatto alle sue esigenze o semplicemente trovare il migliore compromesso tra efficienza, semplicità di utilizzo e costo del software.
@@ -13,15 +13,15 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
 
 ## Prepararsi
 
-A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronto ad iniziare il corso.
+A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronti ad iniziare il corso.
 
 ## Programma 
 
 - [Giorno 1](giorno1.md) : Introduzione a Python
-- [Giorno 2](giorno2.md) : Programmare un esperimento con PsychoPy: aspetti logici 
-- [Giorno 3](giorno3.md) : Programmare un esperimento con PsychoPy: aspetti pratici
-- [Giorno 4](giorno4.md) : Testare l’esperimento 
-- [Giorno 5](giorno5.md) : Approfondire
+- [Giorno 2](giorno2.md) : Programmare un esperimento con PsychoPy (aspetti logici) 
+- [Giorno 3](giorno3.md) : Programmare un esperimento con PsychoPy (aspetti pratici)
+- [Giorno 4](giorno4.md) : Programmare un esperimento con PsychoPy (debugging e astuzie) 
+- [Giorno 5](giorno5.md) : Approfondire PsychoPy con l’uso di risorse online
 
 
 ## Support or Contact

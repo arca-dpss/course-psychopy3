@@ -10,6 +10,8 @@
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
+- [Slides](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
+- [Codici](material/snippet.txt)
+- [Links](links.md)
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)

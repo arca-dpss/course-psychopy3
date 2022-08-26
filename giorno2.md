@@ -8,6 +8,8 @@
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/1BNivDXTs_khI_1xxQntTr9qlt2MHBBDWWrp9PqB95hY/edit#slide=id.g101a4feaa7a_0_34) diapo.
+- [Slides](https://docs.google.com/presentation/d/1BNivDXTs_khI_1xxQntTr9qlt2MHBBDWWrp9PqB95hY/edit#slide=id.g101a4feaa7a_0_34) diapo.
+- [Codici](material/snippet.txt)
+- [Links](links.md)
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)
