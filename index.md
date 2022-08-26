@@ -17,11 +17,11 @@ a questo [link](Prepararsi per il corso.md) troverete le istruzioni per essere p
 
 ## Programma del corso: 
 
-[Giorno 1](giorno1.md) : Introduzione a Python
-[Giorno 2](giorno2.md) : Costruire un esperimento 
-[Giorno 3](giorno3.md) : Costruire un esperimento (Programmazione)
-[Giorno 4](giorno4.md) : Testare l’esperimento 
-[Giorno 5](giorno5.md) : Approfondire
+- [Giorno 1](giorno1.md) : Introduzione a Python
+- [Giorno 2](giorno2.md) : Costruire un esperimento 
+- [Giorno 3](giorno3.md) : Costruire un esperimento (Programmazione)
+- [Giorno 4](giorno4.md) : Testare l’esperimento 
+- [Giorno 5](giorno5.md) : Approfondire
 
 
 ## Support or Contact
