@@ -1,13 +1,15 @@
-# Giorno 4 : Testare l’esperimento  
+# Giorno 4 : Programmare un esperimento con PsychoPy: debugging e astuzie  
 		
-## oggi vedremo:
-			- Eseguire l’esperimento 
-			- Debugging
-			- verificare il log finale
+## Oggi vedremo:
+			- Controbilanciare due blocchi
+			- Creare un feedback
+			- Creare un blocco pratica
+			- Fare debugging
+
 
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/12NvSV83Ra4ompUqjLzTo_yHrYXiaet00wvjw9M8RHSw/edit#slide=id.gfb6b507fcf_1_74) diapo.
+[link](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
 
 Tornare all [index](index.md)
