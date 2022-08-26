@@ -1,13 +1,13 @@
 # Giorno 3 : Programmare un esperimento con PsychoPy: aspetti pratici
 		
 ## Oggi vedremo:
-			- Usare componenti immagini
+			- Usare componente immagini
 			- Evitare di eseguire una routine
-			- Usare componenti code
-			- Creare variabile in python code
+			- Usare componente code
+			- Creare variabili in Python code
 			- Scambiare il contenuto tra due variabili
-			- Usare If statement in python code
-			- Usare funzioni di psychoPy in python code
+			- Usare If statement in Python code
+			- Usare funzioni di PsychoPy in python code
 
 ## Materiale
 
