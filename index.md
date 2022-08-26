@@ -11,11 +11,11 @@ Fare ricerca implica la somministrazione di esperimenti, spesso tramite strument
 PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
 Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici.
 
-## Prepararsi
+## Requisiti software
 
 A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronti ad iniziare il corso.
 
-## Programma 
+## Argomenti 
 
 - [Giorno 1](giorno1.md) : Introduzione a Python
 - [Giorno 2](giorno2.md) : Programmare un esperimento con PsychoPy (aspetti logici) 
@@ -23,7 +23,12 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 - [Giorno 4](giorno4.md) : Programmare un esperimento con PsychoPy (debugging e astuzie) 
 - [Giorno 5](giorno5.md) : Approfondire PsychoPy con l’uso di risorse online
 
+# Orari edizione 2022
 
-## Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Giorno | Orario | Aula (CLA)|
+| :--- | :--- | :--- |
+| Lunedì 17 Ottobre | 9:10-13:00 | aula |
+| Martedì 18 Ottobre | 9:10-13:00 | aula |
+| Mercoledì 19 Ottobre | 9:10-13:00, | aula |
+| Giovedi 20 Ottobre | 9:10-13:00, | aula |
+| Venerdi 21 Ottobre | 9:10-13:00, | aula |
