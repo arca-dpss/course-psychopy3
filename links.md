@@ -1,6 +1,6 @@
 # Links importanti
 
-- [Installare](https://www.psychopy.org/)
+- [Installare PsychoPy](https://www.psychopy.org/)
 
 ## Materiale da scaricare
 
@@ -11,7 +11,7 @@
 
 - [Link](https://discourse.psychopy.org/)
 
-## Tutoriale Youtube
+## Tutorial Youtube
 
 - [PsychoPy](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
 - [Jason Ozubko](https://www.youtube.com/playlist?list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
