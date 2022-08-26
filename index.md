@@ -23,15 +23,14 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
     ---
     ```
 
-## Link to Ohter Files
+## Programma del corso: 
 
-You can add any file, html pages, or other relevent material and create a link to them. 
+[Giorno 1](giorno1.md) : Introduzione a Python
+[Giorno 2](giorno2.md) : Costruire un esperimento 
+[Giorno 3](giorno3.md) : Costruire un esperimento (Programmazione)
+[Giorno 4](giorno4.md) : Testare l’esperimento 
+[Giorno 5](giorno5.md) : Approfondire
 
-> Note that Jekyll will automatically create an html page for each `.md` file.
->
-> For example `[link](trial-page.html)` will link to the `trial-page.html` produced by `trial-page.md` file available at the root.
-> 
-> Click the [link](trial-page.html) to check.
 
 ## TOC
 
