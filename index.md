@@ -13,7 +13,7 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
 
 ## Prepararsi al corso
 
-a questo [link](Prepararsi per il corso.md) troverete le istruzioni per essere pronto ad iniziare il corso.
+a questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronto ad iniziare il corso.
 
 ## Programma del corso: 
 
