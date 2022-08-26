@@ -1,9 +1,13 @@
-# Giorno 1 introduzione a Python
+# Giorno 1 : introduzione a Python
 
-## oggi vedremo:
+## Oggi vedremo:
+			- Modalità del corso
+			- I limiti del PC
+			- Qualche regola riguardo la programmazione
 			- Installare PsychoPy [link](Prepararsi per il corso.md)
+			- Cos'è Python?
 			- Interfaccia del software
 			- Esempio di un esperimento
-			- File output 	
+			- iniziare ad usare Psychopy 	
 
-[index](index.md)
+Tornare all [index](index.md)
