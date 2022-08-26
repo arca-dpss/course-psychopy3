@@ -11,17 +11,9 @@ Fare ricerca implica la somministrazione di esperimenti, spesso tramite strument
 PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
 Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici.
 
-## Files Description
+## Prepararsi al corso
 
-- `_config.yaml` is it used to specify the ARCA githubpages template
-- `index.md` is the file used to create the home page. In the header you can specify metadata:
-    
-    ```
-    ---
-    course_title: Welcome to ARCA Course
-    author_name: Author Name
-    ---
-    ```
+a questo [link](Prepararsi per il corso.md) troverete le istruzioni per essere pronto ad iniziare il corso.
 
 ## Programma del corso: 
 
@@ -31,40 +23,6 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
 [Giorno 4](giorno4.md) : Testare l’esperimento 
 [Giorno 5](giorno5.md) : Approfondire
 
-
-## TOC
-
-Table of content in the github page includes only header 1 (i.e. `# Title 1`) and 2 (i.e. `## Title 2`) levels. 
-### Not in TOC
-
-Header 3 level (i.e., `### Title 3`) or greater are not displayed
-# Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-# Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClaudioZandonella/Template-ARCA-Course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Support or Contact
 
