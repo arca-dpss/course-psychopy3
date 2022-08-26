@@ -1,11 +1,11 @@
 # README
 
-PsychoPy3: programmare un esperimento!
+## PsychoPy3:<br>Programmare un esperimento!
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-Questa è la repository principale del corso ARCA "PsychoPy3: programmare un esperimento!"
+Questa è la repository principale del corso ARCA "PsychoPy3: Programmare un esperimento!"
 organizzato dal Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 dell’Università di Padova. Qui sono contenuti tutti i materiali utilizzati
 nel corso. Per consultare direttamente il materiale è possibile accedere al sito del corso https://arca-dpss.github.io/course-psychopy3
@@ -29,3 +29,15 @@ Per questo corso non sono richieste particolari conoscenze pregresse di programm
 
 ## Software utilizzato: 
 www.psychopy.org
+
+## Orari edizione 2022
+
+| Giorno | Orario | Aula (CLA)|
+| :--- | :--- | :--- |
+| Lunedì 17 Ottobre | 9:10-13:00 | aula |
+| Martedì 18 Ottobre | 9:10-13:00 | aula |
+| Mercoledì 19 Ottobre | 9:10-13:00, | aula |
+| Giovedi 20 Ottobre | 9:10-13:00, | aula |
+| Venerdi 21 Ottobre | 9:10-13:00, | aula |
+
+
