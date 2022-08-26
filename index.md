@@ -27,8 +27,8 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 | Giorno | Orario | Aula (CLA)|
 | :--- | :--- | :--- |
-| Lunedì 17 Ottobre | 9:10-13:00 | aula |
-| Martedì 18 Ottobre | 9:10-13:00 | aula |
-| Mercoledì 19 Ottobre | 9:10-13:00, | aula |
-| Giovedi 20 Ottobre | 9:10-13:00, | aula |
-| Venerdi 21 Ottobre | 9:10-13:00, | aula |
+| Lunedì 17 Ottobre | 9:10-13:10 | aula |
+| Martedì 18 Ottobre | 9:10-13:10 | aula |
+| Mercoledì 19 Ottobre | 9:10-13:10, | aula |
+| Giovedi 20 Ottobre | 9:10-13:10, | aula |
+| Venerdi 21 Ottobre | 9:10-13:10, | aula |
