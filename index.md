@@ -11,11 +11,11 @@ Fare ricerca implica la somministrazione di esperimenti, spesso tramite strument
 PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
 Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici.
 
-## Prepararsi al corso
+## Prepararsi
 
 A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronto ad iniziare il corso.
 
-## Programma del corso: 
+## Programma 
 
 - [Giorno 1](giorno1.md) : Introduzione a Python
 - [Giorno 2](giorno2.md) : Costruire un esperimento 
