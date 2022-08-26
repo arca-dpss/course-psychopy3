@@ -23,7 +23,7 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 - [Giorno 4](giorno4.md) : Programmare un esperimento con PsychoPy (debugging e astuzie) 
 - [Giorno 5](giorno5.md) : Approfondire PsychoPy con l’uso di risorse online
 
-# Orari edizione 2022
+## Orari edizione 2022
 
 | Giorno | Orario | Aula (CLA)|
 | :--- | :--- | :--- |
