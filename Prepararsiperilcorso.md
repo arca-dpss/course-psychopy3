@@ -12,4 +12,4 @@ Per internet potete usare il Wi-Fi Eduroam e seguire questa [procedura](https://
 Nel caso aveste problemi nello scaricare o installare i software, ci sarà un momento dedicato a questo all’inizio del corso.
 
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)
