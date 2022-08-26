@@ -9,7 +9,7 @@
 
 ## Forum
 
-- [link](https://www.youtube.com/playlist?list=PLFB5A1BE51964D587)
+- [link](https://discourse.psychopy.org/)
 
 ## Tutoriale Youtube
 
