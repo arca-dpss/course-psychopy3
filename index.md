@@ -18,7 +18,7 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 ## Programma 
 
 - [Giorno 1](giorno1.md) : Introduzione a Python
-- [Giorno 2](giorno2.md) : Costruire un esperimento 
+- [Giorno 2](giorno2.md) : Programmare un esperimento con PsychoPy: aspetti logici 
 - [Giorno 3](giorno3.md) : Costruire un esperimento (Programmazione)
 - [Giorno 4](giorno4.md) : Testare l’esperimento 
 - [Giorno 5](giorno5.md) : Approfondire
