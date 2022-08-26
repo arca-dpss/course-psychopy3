@@ -32,4 +32,4 @@
 - [Pavlovia](https://pavlovia.org/)
 
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)
