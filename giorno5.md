@@ -1,13 +1,16 @@
-# Giorno 5 : Approfondire
+# Giorno 5 : Approfondire PsychoPy con l’uso di risorse online
 
-## oggi vedremo:
+## Oggi vedremo:
+			- Come inserire un dato diretamente nel file
 			- Risorse online
-			- Distribuire l’esperimento online
-			- Test finale
-      			- Domande
+			- Distribuire l’esperimento
+			- Questionario
+			- Valutazione
+			- Bonus dataset.RData
+
 
 ## Materiale
 
-[link](https://docs.google.com/presentation/d/12NvSV83Ra4ompUqjLzTo_yHrYXiaet00wvjw9M8RHSw/edit#slide=id.gfb6b507fcf_1_74) diapo.
+[link](https://docs.google.com/presentation/d/1t6aIbt2Zr2FkTwUNXh45odyE8RiJjLbgCp52ZEJ13yk/edit#slide=id.g1028bbd5426_0_10) diapo.
 
 Tornare all [index](index.md)
