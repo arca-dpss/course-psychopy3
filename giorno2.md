@@ -1,4 +1,4 @@
-# Giorno 2 : Costruire un esperimento 
+# Giorno 2 : Programmare un esperimento con PsychoPy: aspetti logici 
 		
 ## oggi vedremo:
 			- Capire la logica temporale di PsychoPy
