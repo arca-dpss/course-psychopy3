@@ -16,4 +16,4 @@
 - [linki utili](links.md)
 
 
-Tornare all [index](index.md)
+Tornare all'[index](index.md)
