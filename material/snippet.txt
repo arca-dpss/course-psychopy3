@@ -1,0 +1,67 @@
+Exit loop:
+
+in_code:
+	Begin Experiment:
+		myCount = 0
+	Begin Routine:
+		myCount = myCount + 1
+		if myCount > 3:
+    			loop_practice.finished = True #loop_practice = loop name
+
+Break/routine/loop + keyboard:
+	Each Frame:
+
+		key = kb_end_training.keys
+		repeat = 0
+
+
+		if key == 'y':
+    			continueRoutine = False
+    
+
+		elif key == 'n':
+    			practice.finished=True
+    			continueRoutine = False
+
+Feedback:
+	Begin Routine:
+		# get last resp: name and rt
+		var1 = str(Wheelresp.clicked_name)
+		rt = str(Wheelresp.time)
+		# check if valid resp:
+		if not Wheelresp.clicked_name:
+    			var1 = '..no_resp_0..'
+		emotion = var1[2:-4]
+		# feedback statement:
+		if emotion_practice.lower() == emotion.lower() :
+    			msg = "Correct! " + str(round(float(rt[1:-1]),3))
+		else:
+    			msg = "Oops! That was wrong"
+
+Controbilanciamento 2 blocks:
+
+In-code routine 
+Begin Routine:
+		num = int(expInfo["participant"])
+
+		if (num % 2) == 0:
+    			nrepLoop1 = 0
+    			nrepLoop2 = expInfo['rep']
+		else:
+     			nrepLoop1 = expInfo['rep']
+     			nrepLoop2 = 0
+
+Loop Exp{
+
+	Loop1{} 
+
+	Loop2{}
+
+	In-code routine 
+		Begin Routine:
+			temp = nrepLoop1
+			nrepLoop1 = nrepLoop2
+			nrepLoop2 = temp
+}
+    
+
