@@ -1,7 +1,7 @@
 # Giorno 1 : Introduzione a Python
 
 ## Oggi vedremo:
-			- Modalità del corso
+			- Modalità di svolgimento del corso
 			- I limiti del PC
 			- Qualche regola riguardo la programmazione
 			- Installare PsychoPy [link](Prepararsi per il corso.md)
