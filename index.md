@@ -4,7 +4,7 @@ course_title: PsychoPy3: programmare un esperimento
 author_name: Thomas Quettier
 ---
 
-# Introduction
+# Introduzione
 
 Fare ricerca implica la somministrazione di esperimenti, spesso tramite strumenti informatici. Esistono numerosi software che permettono la presentazione di stimoli e la registrazione delle risposte dei partecipanti. 
 È compito di ogni sperimentatore scegliere lo strumento più adatto alle sue esigenze o semplicemente trovare il migliore compromesso tra efficienza, semplicità di utilizzo e costo del software.
