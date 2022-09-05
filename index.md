@@ -1,5 +1,5 @@
 ---
-course_title: PsychoPy3: programmare un esperimento
+course_title: "PsychoPy3: programmare un esperimento"
 
 author_name: Thomas Quettier
 ---
