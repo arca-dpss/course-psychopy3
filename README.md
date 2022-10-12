@@ -28,10 +28,10 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
 
 | Giorno | Orario | Aula (CLA)|
 | :--- | :--- | :--- |
-| Lunedì 17 Ottobre | 9:10-13:10 | aula |
-| Martedì 18 Ottobre | 9:10-13:10 | aula |
-| Mercoledì 19 Ottobre | 9:10-13:10 | aula |
-| Giovedi 20 Ottobre | 9:10-13:10 | aula |
-| Venerdi 21 Ottobre | 9:10-13:10 | aula |
+| Lunedì 17 Ottobre | 9:10-13:10 | LAB 2A |
+| Martedì 18 Ottobre | 9:10-13:10 | LAB 2A |
+| Mercoledì 19 Ottobre | 9:10-13:10 | LAB 2A |
+| Giovedi 20 Ottobre | 9:10-13:10 | LAB 2A |
+| Venerdi 21 Ottobre | 9:10-13:10 | LAB 2A |
 
 
