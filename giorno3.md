@@ -3,11 +3,11 @@
 ## Oggi vedremo:
 			- Usare componente immagini
 			- Evitare di eseguire una routine
+			- Mettere fine ad un loop
 			- Usare componente code
-			- Creare variabili in Python code
 			- Scambiare il contenuto tra due variabili
-			- Usare If statement in Python code
-			- Usare funzioni di PsychoPy in Python code
+			- Controbilanciare due blocchi
+			
 
 ## Materiale
 
