@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2022.1.4),
-    on Thu Oct 20 11:30:17 2022
+    on Thu Oct 20 12:31:00 2022
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -54,7 +54,7 @@ filename = _thisDir + os.sep + u'data' + os.sep + '%s_%s' % (expInfo['participan
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath='/Users/thomasquettier/Library/Mobile Documents/com~apple~CloudDocs/01.WORK/09.arcapy/github/course-psychopy3/material/stroop_swiss/stroop_lastrun.py',
+    originPath='/Users/thomasquettier/Library/Mobile Documents/com~apple~CloudDocs/01.WORK/09.arcapy/github/course-psychopy3/material/stroop_swiss/stroop.py',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 # save a log file for detail verbose info
@@ -528,6 +528,7 @@ for thisHumanLoop in HumanLoop:
     
     if str(correctsum) == textbox.text:
             HumanLoop.finished = True
+    
     HumanLoop.addData('human_txt.started', human_txt.tStartRefresh)
     HumanLoop.addData('human_txt.stopped', human_txt.tStopRefresh)
     HumanLoop.addData('math_txt.started', math_txt.tStartRefresh)

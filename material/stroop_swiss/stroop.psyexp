@@ -758,7 +758,7 @@
         <Param val="False" valType="bool" updates="constant" name="storeHistory"/>
         <Param val="True" valType="bool" updates="constant" name="storeRating"/>
         <Param val="True" valType="bool" updates="constant" name="storeRatingTime"/>
-        <Param val="()" valType="list" updates="constant" name="styleTweaks"/>
+        <Param val="('triangleMarker',)" valType="list" updates="constant" name="styleTweaks"/>
         <Param val="rating" valType="str" updates="constant" name="styles"/>
         <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
         <Param val="(1, 2, 3, 4, 5,6,7,8,9,10)" valType="list" updates="constant" name="ticks"/>
@@ -806,15 +806,15 @@
         <Param val="/* Syntax Error: Fix Python code */" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
-        <Param val="x = Number.parseInt((Math.random() * 10));&amp;#10;y = Number.parseInt((Math.random() * 10));&amp;#10;math = (((x.toString() + &quot; + &quot;) + y.toString()) + &quot; =&quot;);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
-        <Param val="x = int(random()*10)    # numpy random number tra 1 e 100.&amp;#10;y = int(random()*10) &amp;#10;&amp;#10;math = str(x) + &quot; + &quot; + str(y) + &quot; =&quot;" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="x = Number.parseInt((Math.random() * 10));&amp;#10;y = Number.parseInt((Math.random() * 10));&amp;#10;correctsum = (x + y);&amp;#10;math = (((x.toString() + &quot; + &quot;) + y.toString()) + &quot; =&quot;);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="x = int(random()*10)    # numpy random number tra 1 e 100.&amp;#10;y = int(random()*10) &amp;#10;&amp;#10;correctsum = x+y&amp;#10;&amp;#10;math = str(x) + &quot; + &quot; + str(y) + &quot; =&quot;" valType="extendedCode" updates="constant" name="Begin Routine"/>
         <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
-        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
-        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="&amp;#10;" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="/* Syntax Error: Fix Python code */" valType="extendedCode" updates="constant" name="Each JS Frame"/>
         <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
-        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
-        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="if ((correctsum.toString() === textbox.text)) {&amp;#10;    HumanLoop.finished = true;&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="&amp;#10;if str(correctsum) == textbox.text:&amp;#10;        HumanLoop.finished = True&amp;#10;" valType="extendedCode" updates="constant" name="End Routine"/>
         <Param val="False" valType="bool" updates="None" name="disabled"/>
         <Param val="human_code" valType="code" updates="None" name="name"/>
       </CodeComponent>
@@ -905,12 +905,58 @@
         <Param val="" valType="str" updates="constant" name="text"/>
         <Param val="from exp settings" valType="str" updates="None" name="units"/>
       </TextboxComponent>
+      <ButtonComponent name="button">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="True" valType="bool" updates="constant" name="bold"/>
+        <Param val="None" valType="color" updates="constant" name="borderColor"/>
+        <Param val="0" valType="num" updates="constant" name="borderWidth"/>
+        <Param val="" valType="extendedCode" updates="constant" name="callback"/>
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="darkgrey" valType="color" updates="constant" name="fillColor"/>
+        <Param val="Arvo" valType="str" updates="constant" name="font"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="False" valType="bool" updates="constant" name="italic"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="button" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="constant" name="oncePerClick"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="" valType="num" updates="constant" name="padding"/>
+        <Param val="(0, -0.7)" valType="list" updates="constant" name="pos"/>
+        <Param val="every click" valType="str" updates="None" name="save"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(0.2,0.1)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="validare" valType="str" updates="constant" name="text"/>
+        <Param val="button onset" valType="str" updates="constant" name="timeRelativeTo"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+      </ButtonComponent>
     </Routine>
   </Routines>
   <Flow>
     <Routine name="SETTING"/>
+    <LoopInitiator loopType="TrialHandler" name="HumanLoop">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="None" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="False" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="100" valType="num"/>
+      <Param name="name" updates="None" val="HumanLoop" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
     <Routine name="HUMAN"/>
-    <Routine name="LIKERT"/>
+    <LoopTerminator name="HumanLoop"/>
     <Routine name="MATRIX"/>
     <LoopInitiator loopType="TrialHandler" name="FullPracticeLoop">
       <Param name="Selected rows" updates="None" val="" valType="str"/>

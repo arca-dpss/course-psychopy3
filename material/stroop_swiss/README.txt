@@ -1,4 +1,4 @@
- Experiment:     	STROOP ITA 1.1
+ Experiment:     	STROOP ITA 2.0
 ============================================================
  Programmer:     	Thomas Quettier
 ============================================================
@@ -9,7 +9,11 @@
 
 ATTENZIONE
 ------------------------
-Lo stroop test:
+
+v2.0
+- Likert accuracy
+- Math task
+
 V1.1
 - matrix pill per decidere se blocco practice
 - fine practice se 5 corr resp 
