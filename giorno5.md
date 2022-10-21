@@ -16,4 +16,8 @@
 - [Bonus](material/R/PsychopyData.zip)
 - [Links](links.md)
 
+
+## Valutazione
+- [compito](material/valutazione/stroop.zip)
+
 Tornare all'[index](index.md)
