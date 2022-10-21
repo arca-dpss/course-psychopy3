@@ -3,7 +3,6 @@
 ## Oggi vedremo:
 			- Come inserire un dato direttamente nel file
 			- Risorse online
-			- Distribuire l’esperimento
 			- Questionario
 			- Valutazione
 			- Bonus dataset.RData
@@ -13,6 +12,8 @@
 
 - [Slides](https://docs.google.com/presentation/d/1t6aIbt2Zr2FkTwUNXh45odyE8RiJjLbgCp52ZEJ13yk/edit#slide=id.g1028bbd5426_0_10) diapo.
 - [Codici](material/snippet.txt)
+- [stroop_finale](material/stroop_swiss/stroop_swiss.zip)
+- [Bonus](material/R/PsychopyData.zip)
 - [Links](links.md)
 
 Tornare all'[index](index.md)
