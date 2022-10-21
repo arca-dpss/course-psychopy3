@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2022.1.4),
-    on Thu Oct 20 11:30:17 2022
+    on Fri Oct 21 07:20:35 2022
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -528,6 +528,7 @@ for thisHumanLoop in HumanLoop:
     
     if str(correctsum) == textbox.text:
             HumanLoop.finished = True
+    
     HumanLoop.addData('human_txt.started', human_txt.tStartRefresh)
     HumanLoop.addData('human_txt.stopped', human_txt.tStopRefresh)
     HumanLoop.addData('math_txt.started', math_txt.tStartRefresh)
@@ -1887,7 +1888,7 @@ routineTimer.reset()
 win.flip()
 
 # these shouldn't be strictly necessary (should auto-save)
-thisExp.saveAsWideText(filename+'.csv', delim='auto')
+thisExp.saveAsWideText(filename+'.csv', delim='semicolon')
 thisExp.saveAsPickle(filename)
 logging.flush()
 # make sure everything is closed down
