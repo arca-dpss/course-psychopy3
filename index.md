@@ -32,3 +32,4 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 | Mercoledì 19 Aprile | 9:10-13:10 | 4T |
 | Giovedi 20 Aprile | 9:10-13:10 | 4M |
 | Venerdi 21 Aprile | 9:10-13:10 | 4N |
+
