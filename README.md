@@ -28,10 +28,10 @@ Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descr
 
 | Giorno | Orario | Aula (CLA)|
 | :--- | :--- | :--- |
-| Lunedì 17 Aprile | 9:10-13:10 | LAB 2A |
-| Martedì 18 Aprile | 9:10-13:10 | LAB 2A |
-| Mercoledì 19 Aprile | 9:10-13:10 | LAB 2A |
-| Giovedi 20 Aprile | 9:10-13:10 | LAB 2A |
-| Venerdi 21 Aprile | 9:10-13:10 | LAB 2A |
+| Lunedì 17 Aprile | 9:10-13:10 | 4T |
+| Martedì 18 Aprile | 9:10-13:10 | 4T |
+| Mercoledì 19 Aprile | 9:10-13:10 | 4T |
+| Giovedi 20 Aprile | 9:10-13:10 | 4M |
+| Venerdi 21 Aprile | 9:10-13:10 | 4N |
 
 
