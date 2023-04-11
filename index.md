@@ -25,7 +25,7 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 ## Orari edizione 2022
 
-| Giorno | Orario | Aula (CLA)|
+| Giorno | Orario | Aula Psico2|
 | :--- | :--- | :--- |
 | Lunedì 17 Aprile | 9:10-13:10 | 4T |
 | Martedì 18 Aprile | 9:10-13:10 | 4T |
