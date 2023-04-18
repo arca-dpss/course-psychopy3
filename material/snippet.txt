@@ -10,14 +10,10 @@ in_code:
 
 Break/routine/loop + keyboard:
 	Each Frame:
-
 		key = kb_end_training.keys
-		repeat = 0
-
 
 		if key == 'y':
     			continueRoutine = False
-    
 
 		elif key == 'n':
     			practice.finished=True
@@ -25,16 +21,9 @@ Break/routine/loop + keyboard:
 
 Feedback:
 	Begin Routine:
-		# get last resp: name and rt
-		var1 = str(Wheelresp.clicked_name)
-		rt = str(Wheelresp.time)
-		# check if valid resp:
-		if not Wheelresp.clicked_name:
-    			var1 = '..no_resp_0..'
-		emotion = var1[2:-4]
 		# feedback statement:
-		if emotion_practice.lower() == emotion.lower() :
-    			msg = "Correct! " + str(round(float(rt[1:-1]),3))
+		if kb_component.corr: # equivalente a kb_component.corr == 1
+    			msg = "Correct! RT={:.3f}".format(kb_component.rt)
 		else:
     			msg = "Oops! That was wrong"
 
@@ -45,11 +34,11 @@ Begin Routine:
 		num = int(expInfo["participant"])
 
 		if (num % 2) == 0:
-    			nrepLoop1 = 0
-    			nrepLoop2 = expInfo['rep']
+    			nb_loop_ita = 0
+    			nb_loop_eng = int(expInfo['eng'])
 		else:
-     			nrepLoop1 = expInfo['rep']
-     			nrepLoop2 = 0
+     			nb_loop_ita = int(expInfo['ita'])
+     			nb_loop_eng = 0
 
 Loop Exp{
 
@@ -59,9 +48,9 @@ Loop Exp{
 
 	In-code routine 
 		Begin Routine:
-			temp = nrepLoop1
-			nrepLoop1 = nrepLoop2
-			nrepLoop2 = temp
+			temp = nb_loop_ita
+			nb_loop_ita = nb_loop_eng
+			nb_loop_eng = temp
 }
     
 
