@@ -1,12 +1,14 @@
 # Giorno 3 : Programmare un esperimento con PsychoPy: aspetti pratici
 		
 ## Oggi vedremo:
-			- Usare componente immagini
-			- Evitare di eseguire una routine
-			- Mettere fine ad un loop
-			- Usare componente code
-			- Scambiare il contenuto tra due variabili
-			- Controbilanciare due blocchi
+			- Creare un Stroop controbilanciato
+			- Usare componenti imagini
+			- Usare componenti mouse
+			- Condividere un esperimento
+			- Inserire un dato nel log finale
+			- Distribuire un esperimento
+			- Decifrare un esperimento sconosciuto
+
 			
 
 ## Materiale
