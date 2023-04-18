@@ -5,7 +5,7 @@
 ## Materiale da scaricare
 
 - [Pierce experiments](https://study.sagepub.com/peirce-macaskill-building-experiments-in-psychopy) 
-- [Stroop](material/stroop)
+- [Stroop](material/stroop/dascaricare.zip)
 
 ## Forum
 
