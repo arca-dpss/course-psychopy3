@@ -2,7 +2,9 @@
 		
 ## Oggi vedremo:
 			- Componente slider
+			- Distribuire un esperimento
 			- Fare debugging
+			- Decifrare un esperimento sconosciuto
 
 
 
