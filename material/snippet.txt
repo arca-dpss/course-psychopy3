@@ -53,4 +53,5 @@ Loop Exp{
 			nb_loop_eng = temp
 }
     
-
+add data:
+thisExp.addData("nome_colonna", "data")
