@@ -12,7 +12,8 @@
 
 - [Slides](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
 - [Codici](material/snippet.txt)
-- [material](material/stroop_randomizzato/stroop_randomizzato.zip)
+- [material](material/stroop_randomizzato/stroop_choice.zip)
+- [Il mistero](material/stroop_randomizzato/ilmistero.zip)
 - [Links](links.md)
 
 Tornare all'[index](index.md)
