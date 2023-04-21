@@ -19,7 +19,7 @@
 
 ## Python tutorial
 
-- [Betterprogramming](https://betterprogramming.pub/10-must-have-python-cheatsheets-2b74e8097bc3)
+- [Betterprogramming](https://medium.com/imagescv/my-must-have-python-cheat-sheets-9e4c9d38614c)
 - [Tutorialspoint](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 - [Java script](https://javascript.info/)
 
