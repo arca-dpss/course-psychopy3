@@ -24,14 +24,16 @@ Fare ricerca implica la somministrazione di esperimenti, spesso tramite strument
 PsychoPy è un software open source basato su linguaggio Python. Propone una valida alternativa a programmi come MATLAB®, E-Prime® o Presentation®. Creato da scienziati per gli scienziati, questo software permette la somministrazione di vari esperimenti in scienze comportamentali (neuroscienze, psicologia, psicofisica, linguistica) offrendo flessibilità e precisione. PsychoPy, tramite la sua interfaccia grafica (GUI), facilita ai non esperti di linguaggio Python, la programmazione dei loro esperimenti. 
 Lo scopo del corso sarà di avviare i partecipanti all’uso del software, descrivendone le principali funzionalità al fine di saper ideare, costruire, testare, distribuire e gestire esperimenti pratici.
 
+A fine corso è prevista l'erogazione dell'Open Badge da parte dell'Università di Padova: https://bestr.it/badge/show/3656
+
 ## Orari edizione 2022
 
 | Giorno | Orario | Aula (CLA)|
 | :--- | :--- | :--- |
-| Lunedì 17 Aprile | 9:10-13:10 | 4T |
-| Martedì 18 Aprile | 9:10-13:10 | 4T |
-| Mercoledì 19 Aprile | 9:10-13:10 | 4T |
-| Giovedi 20 Aprile | 9:10-13:10 | 4M |
-| Venerdi 21 Aprile | 9:10-13:10 | 4N |
+| Lunedì 16 Ottobre | 9:00-14:00 | 4T |
+| Martedì 17 Ottobre | 9:00-12:30 | 4T |
+| Mercoledì 18 Ottobre | 9:00-12:30 | 4T |
+| Giovedi 19 Ottobre | 9:00-11:30 | 4T |
+| Venerdi 20 Ottobre | 9:00-14:00 | 4T |
 
 
