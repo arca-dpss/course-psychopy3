@@ -27,9 +27,9 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 | Giorno | Orario | Aula Psico2|
 | :--- | :--- | :--- |
-| Lunedì 17 Aprile | 9:10-13:10 | 4T |
-| Martedì 18 Aprile | 9:10-13:10 | 4T |
-| Mercoledì 19 Aprile | 9:10-13:10 | 4T |
-| Giovedi 20 Aprile | 9:10-13:10 | 4M |
-| Venerdi 21 Aprile | 9:10-13:10 | 4N |
+| Lunedì 16 ottobre | 9:00-14:00 | 4T |
+| Martedì 19 ottobre | 9:00-12:30 | 4T |
+| Mercoledì 20 ottobre | 9:00-12:30 | 4T |
+| Giovedi 21  ottobre | 9:00-11:30 | 4T |
+| Venerdi 22 ottobre | 9:00-14:00 | 4T |
 
