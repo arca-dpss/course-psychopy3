@@ -1,0 +1,325 @@
+1.4275 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+20.9753 	INFO 	Loaded monitor calibration from ['2022_06_01 14:12']
+22.0509 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fc0b5f3b790>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fc0d40f3640>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.0511 	EXP 	window1: mouseVisible = True
+22.0512 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+22.0512 	EXP 	window1: recordFrameIntervals = False
+22.1334 	EXP 	window1: recordFrameIntervals = True
+22.1668 	WARNING 	t of last frame was 10.46ms (=1/95)
+22.2169 	WARNING 	t of last frame was 10.03ms (=1/99)
+22.2669 	WARNING 	t of last frame was 10.15ms (=1/98)
+22.3503 	EXP 	Screen (0) actual frame rate measured at 120.20Hz
+22.3504 	EXP 	window1: recordFrameIntervals = False
+24.6138 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6615 	EXP 	Created istr_practice_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='istr_practice_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+24.6616 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6628 	EXP 	Created practice_trial_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='practice_trial_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6629 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6639 	EXP 	Created feedback_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6731 	EXP 	Created istr_exp_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='istr_exp_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+24.6731 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6742 	EXP 	Created eng_trial_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='eng_trial_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6742 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6756 	EXP 	Created iti_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='iti_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6767 	EXP 	Created ita_trial_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='ita_trial_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6767 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6782 	EXP 	Created iti_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='iti_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+24.6874 	EXP 	Created break_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='break_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Pausa\n\nPremi “space” per continuare', units='height', win=Window(...), wrapWidth=1)
+24.6874 	INFO 	keyboard.Keyboard is using iohub backend.
+24.6965 	EXP 	Created thanks_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='thanks_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+24.6965 	INFO 	keyboard.Keyboard is using iohub backend.
+24.7348 	DATA 	Keypress: down
+24.7572 	EXP 	istr_practice_txt: autoDraw = True
+25.8932 	DEBUG 	Read excel file with openpyxl: conditions.xlsx
+25.8941 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 5 params
+25.8948 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+25.8952 	EXP 	New trial (rep=0, index=0): {'word': 'blue', 'parola': 'blu', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 1}
+25.9040 	DATA 	Keypress: space
+25.9111 	EXP 	istr_practice_txt: autoDraw = False
+25.9111 	EXP 	practice_trial_txt: height = 0.1
+25.9111 	EXP 	practice_trial_txt: height = 0.1
+25.9111 	EXP 	practice_trial_txt: height = 0.1
+25.9111 	EXP 	practice_trial_txt: text = 'blu'
+25.9111 	EXP 	practice_trial_txt: autoDraw = True
+26.3783 	DATA 	Keypress: down
+26.3850 	EXP 	practice_trial_txt: autoDraw = False
+26.3850 	EXP 	feedback_txt: height = 0.1
+26.3850 	EXP 	feedback_txt: height = 0.1
+26.3850 	EXP 	feedback_txt: height = 0.1
+26.3850 	EXP 	feedback_txt: text = 'Oops! That was wrong'
+26.3850 	EXP 	feedback_txt: autoDraw = True
+26.7076 	DATA 	Keypress: down
+27.0364 	DATA 	Keypress: down
+27.2868 	DATA 	Keypress: down
+27.3843 	EXP 	New trial (rep=0, index=1): {'word': 'blue', 'parola': 'blu', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 0}
+27.3998 	EXP 	feedback_txt: autoDraw = False
+27.3998 	EXP 	practice_trial_txt: text = 'blu'
+27.3998 	EXP 	practice_trial_txt: autoDraw = True
+27.5224 	DATA 	Keypress: down
+27.5287 	EXP 	practice_trial_txt: autoDraw = False
+27.5287 	EXP 	feedback_txt: text = 'Oops! That was wrong'
+27.5287 	EXP 	feedback_txt: autoDraw = True
+27.7198 	DATA 	Keypress: down
+27.9693 	DATA 	Keypress: down
+28.1946 	DATA 	Keypress: down
+28.3865 	DATA 	Keypress: down
+28.5266 	EXP 	New trial (rep=0, index=2): {'word': 'red', 'parola': 'rosso', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 1}
+28.5381 	EXP 	feedback_txt: autoDraw = False
+28.5381 	EXP 	practice_trial_txt: height = 0.1
+28.5381 	EXP 	practice_trial_txt: height = 0.1
+28.5381 	EXP 	practice_trial_txt: height = 0.1
+28.5381 	EXP 	practice_trial_txt: text = 'rosso'
+28.5381 	EXP 	practice_trial_txt: autoDraw = True
+28.5703 	DATA 	Keypress: down
+28.5764 	EXP 	practice_trial_txt: autoDraw = False
+28.5764 	EXP 	feedback_txt: text = 'Oops! That was wrong'
+28.5764 	EXP 	feedback_txt: autoDraw = True
+28.7464 	DATA 	Keypress: down
+28.9707 	DATA 	Keypress: down
+29.1695 	DATA 	Keypress: down
+29.3691 	DATA 	Keypress: down
+29.5698 	DATA 	Keypress: down
+29.5770 	EXP 	New trial (rep=0, index=3): {'word': 'green', 'parola': 'verde', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 1}
+29.5904 	EXP 	feedback_txt: autoDraw = False
+29.5904 	EXP 	practice_trial_txt: height = 0.1
+29.5904 	EXP 	practice_trial_txt: height = 0.1
+29.5904 	EXP 	practice_trial_txt: height = 0.1
+29.5904 	EXP 	practice_trial_txt: text = 'verde'
+29.5904 	EXP 	practice_trial_txt: autoDraw = True
+29.7550 	DATA 	Keypress: down
+29.7614 	EXP 	practice_trial_txt: autoDraw = False
+29.7614 	EXP 	feedback_txt: height = 0.1
+29.7614 	EXP 	feedback_txt: height = 0.1
+29.7614 	EXP 	feedback_txt: height = 0.1
+29.7614 	EXP 	feedback_txt: text = 'Correct! RT=0.150'
+29.7614 	EXP 	feedback_txt: autoDraw = True
+29.9521 	DATA 	Keypress: down
+30.1869 	DATA 	Keypress: down
+30.3874 	DATA 	Keypress: down
+30.5952 	DATA 	Keypress: down
+30.7517 	EXP 	New trial (rep=0, index=4): {'word': 'red', 'parola': 'rosso', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 0}
+30.7627 	EXP 	feedback_txt: autoDraw = False
+30.7627 	EXP 	practice_trial_txt: height = 0.1
+30.7627 	EXP 	practice_trial_txt: height = 0.1
+30.7627 	EXP 	practice_trial_txt: height = 0.1
+30.7627 	EXP 	practice_trial_txt: text = 'rosso'
+30.7627 	EXP 	practice_trial_txt: autoDraw = True
+30.7917 	DATA 	Keypress: down
+30.7979 	EXP 	practice_trial_txt: autoDraw = False
+30.7979 	EXP 	feedback_txt: height = 0.1
+30.7979 	EXP 	feedback_txt: height = 0.1
+30.7979 	EXP 	feedback_txt: height = 0.1
+30.7979 	EXP 	feedback_txt: text = 'Correct! RT=0.011'
+30.7979 	EXP 	feedback_txt: autoDraw = True
+30.9694 	DATA 	Keypress: down
+31.1795 	DATA 	Keypress: down
+31.3859 	DATA 	Keypress: down
+31.5868 	DATA 	Keypress: down
+31.7860 	DATA 	Keypress: down
+31.7929 	EXP 	New trial (rep=0, index=5): {'word': 'green', 'parola': 'verde', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 0}
+31.8049 	EXP 	feedback_txt: autoDraw = False
+31.8049 	EXP 	practice_trial_txt: height = 0.1
+31.8049 	EXP 	practice_trial_txt: height = 0.1
+31.8049 	EXP 	practice_trial_txt: height = 0.1
+31.8049 	EXP 	practice_trial_txt: text = 'verde'
+31.8049 	EXP 	practice_trial_txt: autoDraw = True
+31.9917 	DATA 	Keypress: down
+31.9996 	EXP 	practice_trial_txt: autoDraw = False
+31.9996 	EXP 	feedback_txt: height = 0.1
+31.9996 	EXP 	feedback_txt: height = 0.1
+31.9996 	EXP 	feedback_txt: height = 0.1
+31.9996 	EXP 	feedback_txt: text = 'Oops! That was wrong'
+31.9996 	EXP 	feedback_txt: autoDraw = True
+32.1867 	DATA 	Keypress: down
+32.3945 	DATA 	Keypress: down
+32.6024 	DATA 	Keypress: down
+32.8204 	DATA 	Keypress: down
+33.0165 	EXP 	feedback_txt: autoDraw = False
+33.0165 	EXP 	istr_exp_txt: autoDraw = True
+33.7011 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+33.7014 	EXP 	New trial (rep=0, index=0): None
+33.7074 	DEBUG 	Read excel file with openpyxl: conditions.xlsx
+33.7083 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 5 params
+33.7087 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+33.7090 	EXP 	New trial (rep=0, index=0): {'word': 'green', 'parola': 'verde', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 0}
+33.7146 	DATA 	Keypress: space
+33.7210 	EXP 	istr_exp_txt: autoDraw = False
+33.7210 	EXP 	eng_trial_txt: height = 0.1
+33.7210 	EXP 	eng_trial_txt: height = 0.1
+33.7210 	EXP 	eng_trial_txt: height = 0.1
+33.7210 	EXP 	eng_trial_txt: text = 'green'
+33.7210 	EXP 	eng_trial_txt: autoDraw = True
+34.1628 	DATA 	Keypress: down
+34.1700 	EXP 	eng_trial_txt: autoDraw = False
+34.1700 	EXP 	iti_txt: autoDraw = True
+34.5099 	DATA 	Keypress: down
+34.7356 	DATA 	Keypress: down
+34.9259 	DATA 	Keypress: down
+35.1273 	DATA 	Keypress: down
+35.1671 	EXP 	New trial (rep=0, index=1): {'word': 'green', 'parola': 'verde', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 1}
+35.1757 	EXP 	iti_txt: autoDraw = False
+35.1757 	EXP 	eng_trial_txt: text = 'green'
+35.1757 	EXP 	eng_trial_txt: autoDraw = True
+35.3372 	DATA 	Keypress: down
+35.3436 	EXP 	eng_trial_txt: autoDraw = False
+35.3436 	EXP 	iti_txt: autoDraw = True
+35.5105 	DATA 	Keypress: down
+35.7271 	DATA 	Keypress: down
+35.9183 	DATA 	Keypress: down
+36.1185 	DATA 	Keypress: down
+36.3177 	DATA 	Keypress: down
+36.3398 	EXP 	New trial (rep=0, index=2): {'word': 'red', 'parola': 'rosso', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 0}
+36.3499 	EXP 	iti_txt: autoDraw = False
+36.3499 	EXP 	eng_trial_txt: height = 0.1
+36.3499 	EXP 	eng_trial_txt: height = 0.1
+36.3499 	EXP 	eng_trial_txt: height = 0.1
+36.3499 	EXP 	eng_trial_txt: text = 'red'
+36.3499 	EXP 	eng_trial_txt: autoDraw = True
+36.5087 	DATA 	Keypress: down
+36.5157 	EXP 	eng_trial_txt: autoDraw = False
+36.5157 	EXP 	iti_txt: autoDraw = True
+36.7087 	DATA 	Keypress: down
+36.9012 	DATA 	Keypress: down
+37.1106 	DATA 	Keypress: down
+37.2919 	DATA 	Keypress: down
+37.4686 	DATA 	Keypress: down
+37.5082 	EXP 	New trial (rep=0, index=3): {'word': 'blue', 'parola': 'blu', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 0}
+37.5204 	EXP 	iti_txt: autoDraw = False
+37.5204 	EXP 	eng_trial_txt: height = 0.1
+37.5204 	EXP 	eng_trial_txt: height = 0.1
+37.5204 	EXP 	eng_trial_txt: height = 0.1
+37.5204 	EXP 	eng_trial_txt: text = 'blue'
+37.5204 	EXP 	eng_trial_txt: autoDraw = True
+37.6737 	DATA 	Keypress: down
+37.6826 	EXP 	eng_trial_txt: autoDraw = False
+37.6826 	EXP 	iti_txt: autoDraw = True
+37.8678 	DATA 	Keypress: down
+38.0746 	DATA 	Keypress: down
+38.2854 	DATA 	Keypress: down
+38.4773 	DATA 	Keypress: down
+38.6685 	DATA 	Keypress: down
+38.6752 	EXP 	New trial (rep=0, index=4): {'word': 'blue', 'parola': 'blu', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 1}
+38.6836 	EXP 	iti_txt: autoDraw = False
+38.6836 	EXP 	eng_trial_txt: text = 'blue'
+38.6836 	EXP 	eng_trial_txt: autoDraw = True
+38.8745 	DATA 	Keypress: down
+38.8828 	EXP 	eng_trial_txt: autoDraw = False
+38.8828 	EXP 	iti_txt: autoDraw = True
+39.0598 	DATA 	Keypress: down
+39.2600 	DATA 	Keypress: down
+39.4686 	DATA 	Keypress: down
+39.6680 	DATA 	Keypress: down
+39.8749 	EXP 	New trial (rep=0, index=5): {'word': 'red', 'parola': 'rosso', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 1}
+39.8816 	DATA 	Keypress: down
+39.8880 	EXP 	iti_txt: autoDraw = False
+39.8880 	EXP 	eng_trial_txt: height = 0.1
+39.8880 	EXP 	eng_trial_txt: height = 0.1
+39.8880 	EXP 	eng_trial_txt: height = 0.1
+39.8880 	EXP 	eng_trial_txt: text = 'red'
+39.8880 	EXP 	eng_trial_txt: autoDraw = True
+40.0711 	DATA 	Keypress: down
+40.0773 	EXP 	eng_trial_txt: autoDraw = False
+40.0773 	EXP 	iti_txt: autoDraw = True
+40.2595 	DATA 	Keypress: down
+41.0801 	DEBUG 	Read excel file with openpyxl: conditions.xlsx
+41.0811 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 5 params
+41.0815 	EXP 	Created sequence: random, trialTypes=6, nReps=0, seed=None
+41.0820 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+41.0821 	EXP 	New trial (rep=0, index=0): None
+41.0900 	EXP 	iti_txt: autoDraw = False
+41.0900 	EXP 	break_txt: autoDraw = True
+41.5359 	EXP 	New trial (rep=1, index=0): None
+41.5417 	DEBUG 	Read excel file with openpyxl: conditions.xlsx
+41.5426 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 5 params
+41.5430 	EXP 	Created sequence: random, trialTypes=6, nReps=0, seed=None
+41.5489 	DEBUG 	Read excel file with openpyxl: conditions.xlsx
+41.5498 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 5 params
+41.5502 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+41.5505 	EXP 	New trial (rep=0, index=0): {'word': 'blue', 'parola': 'blu', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 0}
+41.5556 	DATA 	Keypress: space
+41.5619 	EXP 	break_txt: autoDraw = False
+41.5619 	EXP 	ita_trial_txt: height = 0.1
+41.5619 	EXP 	ita_trial_txt: height = 0.1
+41.5619 	EXP 	ita_trial_txt: height = 0.1
+41.5619 	EXP 	ita_trial_txt: text = 'blu'
+41.5619 	EXP 	ita_trial_txt: autoDraw = True
+42.0365 	DATA 	Keypress: down
+42.0427 	EXP 	ita_trial_txt: autoDraw = False
+42.0427 	EXP 	iti_txt: autoDraw = True
+42.9521 	DATA 	Keypress: down
+43.0416 	EXP 	New trial (rep=0, index=1): {'word': 'blue', 'parola': 'blu', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 1}
+43.0503 	EXP 	iti_txt: autoDraw = False
+43.0503 	EXP 	ita_trial_txt: text = 'blu'
+43.0503 	EXP 	ita_trial_txt: autoDraw = True
+43.1959 	DATA 	Keypress: down
+43.2032 	EXP 	ita_trial_txt: autoDraw = False
+43.2032 	EXP 	iti_txt: autoDraw = True
+43.3683 	DATA 	Keypress: down
+43.6108 	DATA 	Keypress: down
+43.8017 	DATA 	Keypress: down
+43.9770 	DATA 	Keypress: down
+44.1678 	DATA 	Keypress: down
+44.2001 	EXP 	New trial (rep=0, index=2): {'word': 'green', 'parola': 'verde', 'letterColor': 'blue', 'corrAns': 'right', 'congruent': 0}
+44.2119 	EXP 	iti_txt: autoDraw = False
+44.2119 	EXP 	ita_trial_txt: height = 0.1
+44.2119 	EXP 	ita_trial_txt: height = 0.1
+44.2119 	EXP 	ita_trial_txt: height = 0.1
+44.2119 	EXP 	ita_trial_txt: text = 'verde'
+44.2119 	EXP 	ita_trial_txt: autoDraw = True
+44.3546 	DATA 	Keypress: down
+44.3609 	EXP 	ita_trial_txt: autoDraw = False
+44.3609 	EXP 	iti_txt: autoDraw = True
+44.5265 	DATA 	Keypress: down
+44.7347 	DATA 	Keypress: down
+44.9015 	DATA 	Keypress: down
+45.0852 	DATA 	Keypress: down
+45.2683 	DATA 	Keypress: down
+45.3576 	EXP 	New trial (rep=0, index=3): {'word': 'green', 'parola': 'verde', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 1}
+45.3661 	EXP 	iti_txt: autoDraw = False
+45.3661 	EXP 	ita_trial_txt: text = 'verde'
+45.3661 	EXP 	ita_trial_txt: autoDraw = True
+45.4635 	DATA 	Keypress: down
+45.4699 	EXP 	ita_trial_txt: autoDraw = False
+45.4699 	EXP 	iti_txt: autoDraw = True
+45.6348 	DATA 	Keypress: down
+45.8265 	DATA 	Keypress: down
+46.0018 	DATA 	Keypress: down
+46.1852 	DATA 	Keypress: down
+46.3685 	DATA 	Keypress: down
+46.4665 	EXP 	New trial (rep=0, index=4): {'word': 'red', 'parola': 'rosso', 'letterColor': 'red', 'corrAns': 'left', 'congruent': 1}
+46.4775 	EXP 	iti_txt: autoDraw = False
+46.4775 	EXP 	ita_trial_txt: height = 0.1
+46.4775 	EXP 	ita_trial_txt: height = 0.1
+46.4775 	EXP 	ita_trial_txt: height = 0.1
+46.4775 	EXP 	ita_trial_txt: text = 'rosso'
+46.4775 	EXP 	ita_trial_txt: autoDraw = True
+46.5454 	DATA 	Keypress: down
+46.5524 	EXP 	ita_trial_txt: autoDraw = False
+46.5524 	EXP 	iti_txt: autoDraw = True
+46.7352 	DATA 	Keypress: down
+46.9192 	DATA 	Keypress: down
+47.1269 	DATA 	Keypress: down
+47.3016 	DATA 	Keypress: down
+47.4848 	DATA 	Keypress: down
+47.5495 	EXP 	New trial (rep=0, index=5): {'word': 'red', 'parola': 'rosso', 'letterColor': 'green', 'corrAns': 'down', 'congruent': 0}
+47.5578 	EXP 	iti_txt: autoDraw = False
+47.5578 	EXP 	ita_trial_txt: text = 'rosso'
+47.5578 	EXP 	ita_trial_txt: autoDraw = True
+47.6738 	DATA 	Keypress: down
+47.6827 	EXP 	ita_trial_txt: autoDraw = False
+47.6827 	EXP 	iti_txt: autoDraw = True
+47.8513 	DATA 	Keypress: down
+48.0513 	DATA 	Keypress: down
+48.2348 	DATA 	Keypress: down
+48.4349 	DATA 	Keypress: down
+48.6260 	DATA 	Keypress: down
+48.6750 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+48.6991 	EXP 	iti_txt: autoDraw = False
+48.6991 	EXP 	thanks_txt: autoDraw = True
+48.8024 	DATA 	Keypress: down
+48.9955 	DATA 	Keypress: down
+49.1886 	DATA 	Keypress: down
+50.0697 	EXP 	window1: mouseVisible = True
+50.0749 	DEBUG 	Saving data for stroop ExperimentHandler
+50.0762 	INFO 	saved data to /Users/thomasquettier/Desktop/ARCAPY/stroop_bilingual/data/PT_1.psydat
+50.0783 	INFO 	saved data to '/Users/thomasquettier/Desktop/ARCAPY/stroop_bilingual/data/PT_1.csv'
