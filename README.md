@@ -28,12 +28,12 @@ A fine corso è prevista l'erogazione dell'Open Badge da parte dell'Università 
 
 ## Orari edizione 2022
 
-| Giorno | Orario | Aula (CLA)|
+| Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 16 Ottobre | 9:00-14:00 | 4T |
-| Martedì 17 Ottobre | 9:00-12:30 | 4T |
-| Mercoledì 18 Ottobre | 9:00-12:30 | 4T |
-| Giovedi 19 Ottobre | 9:00-11:30 | 4T |
-| Venerdi 20 Ottobre | 9:00-14:00 | 4T |
+| Lunedì 15 Aprile | 9:00-14:00 | 4M |
+| Martedì 16 Aprile | 9:00-12:30 | 4N |
+| Mercoledì 17 Aprile | 9:00-12:30 | 4M |
+| Giovedi 17 Aprile | 9:00-11:30 | 4M |
+| Venerdi 19 Aprile | 9:00-14:00 | 4N |
 
 
