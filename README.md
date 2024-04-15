@@ -30,10 +30,10 @@ A fine corso è prevista l'erogazione dell'Open Badge da parte dell'Università 
 
 | Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 15 Aprile | 9:00-14:00 | 4M |
-| Martedì 16 Aprile | 9:00-12:30 | 4N |
-| Mercoledì 17 Aprile | 9:00-12:30 | 4M |
-| Giovedi 17 Aprile | 9:00-11:30 | 4M |
-| Venerdi 19 Aprile | 9:00-14:00 | 4N |
+| Lunedì 15 Aprile | 9:00-13:00 | 4M |
+| Martedì 16 Aprile | 9:00-13:00 | 4N |
+| Mercoledì 17 Aprile | 9:00-13:00 | 4M |
+| Giovedi 17 Aprile | 9:00-13:00 | 4M |
+| Venerdi 19 Aprile | 9:00-13:00 | 4N |
 
 
