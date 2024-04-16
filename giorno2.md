@@ -4,7 +4,9 @@
 			- Capire la logica temporale di PsychoPy
 			- Capire il log finale
 			- Capire usare le “Routine”
-			- Capire usare i “Loop”	
+			- Capire usare i “Loop”
+   			- Usare componenti imagini
+			- Usare componenti mouse
 
 ## Materiale
 
