@@ -2,8 +2,6 @@
 		
 ## Oggi vedremo:
 			- Creare un Stroop controbilanciato
-			- Usare componenti imagini
-			- Usare componenti mouse
 			- Condividere un esperimento
 			- Inserire un dato nel log finale
 			- Distribuire un esperimento
