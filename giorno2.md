@@ -3,8 +3,8 @@
 ## Oggi vedremo:
 			- Capire la logica temporale di PsychoPy
 			- Capire il log finale
-			- Capire cosa sono le “Routine”
-			- Capire cosa sono i “Loop”	
+			- Capire usare le “Routine”
+			- Capire usare i “Loop”	
 
 ## Materiale
 
