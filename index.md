@@ -25,11 +25,11 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 ## Orari edizione 2022
 
-| Giorno | Orario | Aula Psico2|
+| Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 16 ottobre | 9:00-14:00 | 4T |
-| Martedì 19 ottobre | 9:00-12:30 | 4T |
-| Mercoledì 20 ottobre | 9:00-12:30 | 4T |
-| Giovedi 21  ottobre | 9:00-11:30 | 4T |
-| Venerdi 22 ottobre | 9:00-14:00 | 4T |
+| Lunedì 15 Aprile | 9:00-13:00 | 4M |
+| Martedì 16 Aprile | 9:00-13:00 | 4N |
+| Mercoledì 17 Aprile | 9:00-13:00 | 4M |
+| Giovedi 17 Aprile | 9:00-13:00 | 4M |
+| Venerdi 19 Aprile | 9:00-13:00 | 4N |
 
