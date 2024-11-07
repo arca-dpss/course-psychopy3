@@ -16,6 +16,6 @@
 
 
 ## Valutazione
-- [compito](material/valutazione/stroop.zip)
+- [compito](material/stroop.zip)
 
 Tornare all'[index](index.md)
