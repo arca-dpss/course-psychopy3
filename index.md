@@ -27,9 +27,9 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 | Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 04 Novembre | 9:00-13:30 | 4T |
-| Martedì 05 Novembre | 10:30-14:30 | 4T |
-| Mercoledì 06 Novembre | 9:00-12:30 | 4T |
-| Giovedi 07 Novembre | 9:00-13:00 | 4R |
-| Venerdi 08 Novembre | 9:00-13:00 | 4N |
+| Lunedì 17 Marzo | 9:00-13:30 | 4R |
+| Martedì 18 Marzo | 10:30-14:30 | 4R |
+| Mercoledì 19 Marzo | 9:00-12:30 | 4R |
+| Giovedi 20 Marzo | 9:00-13:00 | 4T |
+| Venerdi 21 Marzo | 9:00-13:00 | 4R |
 
