@@ -27,9 +27,9 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 | Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 17 Marzo | 9:00-13:00 | 4R |
-| Martedì 18 Marzo | 9:00-13:00 | 4R |
-| Mercoledì 19 Marzo | 9:00-13:00 | 4R |
-| Giovedi 20 Marzo | 9:00-13:00 | 4T |
-| Venerdi 21 Marzo | 9:00-13:00 | 4R |
+| Lunedì 27 Ottobre | 9:00-13:00 | ARCA |
+| Martedì 28 Ottobre | 9:00-13:00 | ARCA |
+| Mercoledì 29 Ottobre | 14:30-18:30 | 4M |
+| Giovedi 30 Ottobre | 9:00-13:00 | ARCA |
+| Venerdi 31 Ottobre | 9:00-13:00 | ARCA |
 
