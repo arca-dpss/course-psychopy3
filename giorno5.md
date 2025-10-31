@@ -13,7 +13,7 @@
 - [Codici](material/snippet.txt)
 - [material](material/StroopFeedback.zip)
 - [Bonus](https://github.com/Merluin/Data_analysis_template)
-- [Script](material/data_exploration.R)
+- [Script](material/summary.R)
 - [Links](links.md)
 
 
