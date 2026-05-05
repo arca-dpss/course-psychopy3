@@ -27,9 +27,10 @@ A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pron
 
 | Giorno | Orario | Aula |
 | :--- | :--- | :--- |
-| Lunedì 27 Ottobre | 9:00-13:00 | ARCA |
-| Martedì 28 Ottobre | 9:00-13:00 | ARCA |
-| Mercoledì 29 Ottobre | 14:30-18:30 | 4M |
-| Giovedi 30 Ottobre | 9:00-13:00 | ARCA |
-| Venerdi 31 Ottobre | 9:00-13:00 | ARCA |
+| Lunedì 04 Maggio | 13:00-17:00 | ARCA |
+| Martedì 05 Maggio | 13:00-17:00 | ARCA |
+| Mercoledì 06 Maggio | 13:00-17:00 | ARCA |
+| Giovedi 07 Maggio | 13:00-17:00 | ARCA |
+| Venerdi 08 Maggio | 13:00-17:00 | ARCA |
+
 
