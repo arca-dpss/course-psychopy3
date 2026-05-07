@@ -12,7 +12,7 @@
 
 - [Slides](https://docs.google.com/presentation/d/16wF8bLtveQPyY5rwQaRqUykRVcwmYKgMCrMuT4sNxRU/edit#slide=id.p) diapo.
 - [Codici](material/snippet.txt)
-- [material](material/StroopScelta.zip)
+- [material](material/StroopControbilanciato.zip)
 - [Il mistero](material/stroop_randomizzato/ilmistero.zip)
 - [Links](links.md)
 
